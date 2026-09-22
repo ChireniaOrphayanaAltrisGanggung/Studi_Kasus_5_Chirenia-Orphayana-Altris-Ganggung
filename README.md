@@ -32,7 +32,7 @@
 
    <img width="509" height="73" alt="image" src="https://github.com/user-attachments/assets/e797bbc6-6faa-4de6-8498-8d730c5f80d8" />
 
-   Program menggunakan return untuk mengembalikan total biaya parkir dari function.
+   Program menggunakan *return* untuk mengembalikan total biaya parkir dari function.
 
 5. MEMANGGIL FUNCTION
   
